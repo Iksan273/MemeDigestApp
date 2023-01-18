@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projectnmp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Home</string>
+    <string name="Creation">MyCreation</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="Settings">Settings</string>
+</resources>
